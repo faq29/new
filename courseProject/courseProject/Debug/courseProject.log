@@ -1,0 +1,27 @@
+﻿Построение начато 26.05.2016 20:28:28.
+     1>Проект "C:\Users\Tilek\Desktop\courseProject\courseProject\courseProject.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(113): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\tilek\desktop\courseproject\courseproject\main.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tilek\Desktop\courseProject\Debug\courseProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tilek\Desktop\courseProject\Debug\courseProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tilek\Desktop\courseProject\Debug\courseProject.lib" /MACHINE:X86 Debug\main.obj
+         courseProject.vcxproj -> C:\Users\Tilek\Desktop\courseProject\Debug\courseProject.exe
+     1>Построение проекта "C:\Users\Tilek\Desktop\courseProject\courseProject\courseProject.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.68
